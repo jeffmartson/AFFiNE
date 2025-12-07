@@ -16,7 +16,7 @@
     "@affine/i18n": "workspace:*",
     "@affine/templates": "workspace:*",
     "@blocksuite/block-std": "0.17.0-canary-202408191538-1511d04",
-    "@blocksuite/blocks": "0.17.0-canary-202408191538-1511d04",
+    "@blocksuite/blocks": "0.17.0",
     "@blocksuite/global": "0.17.0-canary-202408191538-1511d04",
     "@blocksuite/icons": "2.1.66",
     "@blocksuite/inline": "0.17.0-canary-202408191538-1511d04",
