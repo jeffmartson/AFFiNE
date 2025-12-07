@@ -14,7 +14,7 @@
     "@affine/debug": "workspace:*",
     "@affine/env": "workspace:*",
     "@affine/templates": "workspace:*",
-    "@blocksuite/blocks": "0.17.0-canary-202408191538-1511d04",
+    "@blocksuite/blocks": "0.17.0",
     "@blocksuite/global": "0.17.0-canary-202408191538-1511d04",
     "@blocksuite/presets": "0.17.0-canary-202408191538-1511d04",
     "@blocksuite/store": "0.17.0-canary-202408191538-1511d04",
