@@ -19,7 +19,7 @@
     "core-js": "^3.36.1",
     "figma-squircle": "^0.3.1",
     "intl-segmenter-polyfill-rs": "^0.1.7",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.26.1"
